@@ -2,6 +2,7 @@
 
 This repository contains a minimal Next.js application and a `Dockerfile` for building and running it.
 
+
 ## Build the image
 
 ```bash
