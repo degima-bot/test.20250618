@@ -1,6 +1,6 @@
 # Next.js Docker Setup
 
-This repository contains a `Dockerfile` for running a Next.js application.
+This repository contains a minimal Next.js application and a `Dockerfile` for building and running it.
 
 ## Build the image
 
